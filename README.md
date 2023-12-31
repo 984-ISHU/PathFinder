@@ -5,4 +5,4 @@ Program to find the shortest distance between any two major stations of the Sout
 ### Algorithm Used: Dijkstra's Algorithm
 
 ##Map: 
-![Local Image](image.jpg)
+![](south-western-railway-zone.jpg)
